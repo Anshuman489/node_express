@@ -10,7 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
